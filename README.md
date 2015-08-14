@@ -17,7 +17,7 @@ $ apt-get update && apt-get install python2.7 \
 There are two way of installing :
 #### Install using the source
 To install using source code first you must `clone` this repository and then you need to put the [python file](nautilus-open-atom.py) in one of the paths bellow:  
-1. `$XDG_DATA_DIR/share/nautilus-pyhton/extentions` to add extension for all users
+1. `$XDG_DATA_DIR/share/nautilus-pyhton/extentions` to add extension for all users  
 2. `~/.local/share/nautilus-python/extensions/` to add extension to your own nautilus file manager
 
 Then after restarting the `nautilus` using `nautilus -q` you have extension in you nautilus
