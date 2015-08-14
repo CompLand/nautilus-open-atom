@@ -15,14 +15,14 @@ $ apt-get update && apt-get install python2.7 \
 
 # Install
 There are two way of installing :
-#### Install using the source
+#### Source Code
 To install using source code first you must `clone` this repository and then you need to put the [python file](nautilus-open-atom.py) in one of the paths bellow:  
 1. `$XDG_DATA_DIR/share/nautilus-pyhton/extentions` to add extension for all users  
 2. `~/.local/share/nautilus-python/extensions/` to add extension to your own nautilus file manager
 
 Then after restarting the `nautilus` using `nautilus -q` you have extension in you nautilus
 
-#### Install using Debian package
+#### Debian package
 To install `nautilus-open-atom` extension in Debian based system just download the [deb file](nautilus-open-atom_0.9.deb) and the use `dpkg` to install it:  
 ```bash
 $ dpkg -i nautilus-open-atom.deb
