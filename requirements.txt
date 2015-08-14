@@ -1,3 +1,4 @@
+python2.7
 python-nautilus
 python-gconf
 gir1.2-gconf-2.0
