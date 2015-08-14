@@ -5,7 +5,7 @@ Mahdi Fooladgar (@professormahi)
 
 
 # Requirements
-This extension needs `python2.7` and all other packages that are mentioned in `requirements.txt` file, to install it on Debian based Linux systems:  
+This extension needs `python2.7` and all other packages that are mentioned in `requirements.txt` file, to install them on Debian based Linux systems:  
 ```bash
 $ apt-get update && apt-get install python2.7 \
                     python-nautilus \
